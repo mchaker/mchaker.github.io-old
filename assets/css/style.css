@@ -1,6 +1,6 @@
 ---
----
 .page-header {
   background-image: linear-gradient(120deg, #000000, #159957);
 }
+---
 @import "{{ site.theme }}";
