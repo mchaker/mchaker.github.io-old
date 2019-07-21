@@ -2,7 +2,7 @@ title: aeiou
 description: Since READMEs should not be used as project status blogs
 google_analytics: UA-66401342-1
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
