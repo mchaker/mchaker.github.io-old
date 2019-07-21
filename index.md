@@ -1,4 +1,4 @@
 ### Constraint engineering and unthrashing humanity
-SLAs and Ikhlaas
+SLAs, formal verification, and Ikhlaas.
 
 Let's go.
